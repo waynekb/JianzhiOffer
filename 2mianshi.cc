@@ -43,5 +43,7 @@ int main()
     Singleton* test2= Singleton::getinstance();
     test1->dosomething();
     test2->dosomething();
+
+    
     return 0;
 }
