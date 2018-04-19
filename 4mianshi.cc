@@ -35,4 +35,5 @@ int main(){
     cin.getline(abc,100);
     Replace(abc);
     cout<< abc<<endl;
+    cout<<"fix file"<<endl;
 }
